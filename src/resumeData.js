@@ -46,10 +46,17 @@ let resumeData = {
   ],
   "work": [
     {
+      "CompanyName": "Glofy",
+      "specialization": "Full Stack Developer + AI",
+      "MonthOfLeaving": "Jun 2025 - ",
+      "YearOfLeaving": "Present",
+      "Achievements": "Building internal tools and automation solutions for Hospitri, a Puerto Rico-based startup revolutionizing vacation rental property management. Hospitri is a Vacation Rental Management as a Service (VRMaaS) platform built to sync, simplify, and scale operations for property managers and owners. We combine cutting-edge automation with dedicated human expertise to help you maximize revenue, reduce workload, and optimize guest experiences."
+    },
+    {
       "CompanyName": "Payana",
       "specialization": "Full Stack Developer",
-      "MonthOfLeaving": "Nov 2024 - ",
-      "YearOfLeaving": "Present",
+      "MonthOfLeaving": "Nov 2024 - Jun",
+      "YearOfLeaving": "2025",
       "Achievements": "Developed and maintained a B2B Service payments and scheduling product used by small and medium-sized businesses (SMBs) in Colombia to manage and pay for their services."
     },
     {
